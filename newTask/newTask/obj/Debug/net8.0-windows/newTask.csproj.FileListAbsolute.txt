@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\C#\newTask\newTask\bin\Debug\net8.0-windows\newTask.exe
+C:\Users\user\Desktop\C#\newTask\newTask\bin\Debug\net8.0-windows\newTask.deps.json
+C:\Users\user\Desktop\C#\newTask\newTask\bin\Debug\net8.0-windows\newTask.runtimeconfig.json
+C:\Users\user\Desktop\C#\newTask\newTask\bin\Debug\net8.0-windows\newTask.dll
+C:\Users\user\Desktop\C#\newTask\newTask\bin\Debug\net8.0-windows\newTask.pdb
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\newTask.Form1.resources
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\newTask.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\newTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\newTask.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\newTask.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\newTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\newTask.dll
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\refint\newTask.dll
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\newTask.pdb
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\newTask.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\newTask\newTask\obj\Debug\net8.0-windows\ref\newTask.dll
